@@ -116,7 +116,7 @@
 {"key":"myg","name":"🔞Myg资源","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"f2d","name":"🔞f2d采集","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"MBO 影视","name":"MBO 影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}],
-"spider":"https://xxrena.github.io/qq26898231/jar/0918.jar",
+"spider":"https://xxrena.github.io/qq26898231/jar/custom_spider.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":
