@@ -1,4 +1,9 @@
-{"sites":[{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{
+"spider":"https://xxrena.github.io/qq26898231/jar/2925.jar",
+
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":
+["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMzUxOC9nZ2xpdmUudHh0P3NpZ249ZFBCcjhyME5RZHlJdFM4eUtCSFRodGN4ckNHaTZPOGtERnlSMkFNekc4ayUzRCUzQTA="]}]}],"sites":[{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Kuaikan","name":"🔥快看影院","type": 3,"api":"csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "图图","name": "🔥图图(SP多线)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -757,11 +762,6 @@
       "searchable": 1,
       "filterable": 1
     }],
-"spider":"https://xxrena.github.io/qq26898231/jar/custom_spider.jar",
-
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":
-["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMzUxOC9nZ2xpdmUudHh0P3NpZ249ZFBCcjhyME5RZHlJdFM4eUtCSFRodGN4ckNHaTZPOGtERnlSMkFNekc4ayUzRCUzQTA="]}]}],
 
 "parses":[{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"线路NX","type":1,"url":"https://yun.nxflv.com/?url="},
